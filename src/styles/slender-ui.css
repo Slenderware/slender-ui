@@ -1,0 +1,40 @@
+/*
+ * slender-ui
+ * 
+ *
+ * Copyright (c) 2014 Jannik Richter
+ * Licensed under the MIT license.
+ */
+
+/*Buttons*/
+
+.btn {
+	border-color: #CCCCCC;
+	border-radius: 0;
+	-webkit-border-radius: 0;
+	outline: none;
+	margin-bottom: 5px !important;
+	margin-left: 4px;
+	font-size: 13px;
+	padding: 7px 11px;
+	box-shadow: 1px 1px 2px rgba(0, 0, 0, 0.12), 1px 1px 0 rgba(255, 255, 255, 0.2) inset;
+}
+
+.btn-primary, 
+.btn-primary:focus {
+	background-color: #4D90FD;
+	border-color: #3680BF;
+	border-radius: 0;
+}
+
+.btn-primary:hover,
+.btn-primary:active,
+.btn-primary.active,
+.open .dropdown-toggle.btn-primary {
+  background-color: #4e9dff;
+  border-color: #357ebd;
+}
+
+.btn-primary:active {
+  box-shadow: 0 0px 0px rgba(0, 0, 0, 0.125) inset;
+}
