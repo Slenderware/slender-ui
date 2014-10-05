@@ -9,5 +9,5 @@
   "main": [   
     "dist/css/jquery.slender-ui.css",
     "dist/js/jquery.slender-ui.js"    
-  ],
+  ]
 }
