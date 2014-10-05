@@ -5,5 +5,9 @@
   "devDependencies": {
     "qunit": "~1.12.0",
     "jquery": "~2.1.1"
-  }
+  },
+  "main": [   
+    "dist/css/jquery.slender-ui.css",
+    "dist/js/jquery.slender-ui.js"    
+  ],
 }
