@@ -1,4 +1,4 @@
-/*! slender-ui - v0.0.1 - 2014-09-29
+/*! slender-ui - v0.0.1 - 2014-10-05
 * https://github.com/nikrich/slender-ui
 * Copyright (c) 2014 Jannik Richter; Licensed MIT */
 (function ($) {
