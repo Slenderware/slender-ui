@@ -211,6 +211,16 @@ border-radius: 0px;
 	overflow-x:auto;	
 }
 
+/*Top Menu*/
+.topmenu{
+	height:3em; 
+	background:#2ecc71;
+}
+
+.topmenu i{
+	margin:0.8em;
+}
+
 /*Forms*/
 .form-control {
 	border-radius:0px;
