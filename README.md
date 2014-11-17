@@ -4,6 +4,9 @@ slender-ui
 
 Light and beautiful bootstrap based flat-ui components inspired by bootstrap. Slender-ui was designed as a base for the slender project management (slenderpm) website and can be reused in websites.
 
+Demo
+=====
+<a href="http://slenderware.github.io/slender-ui">Click here</a> to see a demo of the styling elements
 
 Installation instructions
 ==========
